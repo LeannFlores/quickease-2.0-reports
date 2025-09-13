@@ -1,0 +1,44 @@
+TESTS FOR MOBILE AUTHENTICATION ON **SEPTEMBER 13, 2025**
+
+**TLDR:**
+
+- ✅ creating a post are functional. suggestion: in the post card below the name should add the date and time create.
+- ✅ editing and delete post are functional.
+- ✅ commenting on a post is functional.
+- ✅ up and down vote buttom are functional.
+- ✅ adding a tag in post are functional.
+
+# Create a post
+
+- **MODULE:** create a post
+- **DESCRIPTION:** The user should able to create a post.
+- **STATUS:** PASSED
+- **NOTES:** creating a post are functional. suggestion: in the post card below the name should add the date and time create.
+
+# Edit post
+
+- **MODULE:** Edit post
+- **DESCRIPTION:** The user should able to edit the post.
+- **STATUS:** PASSED
+- **NOTES:** editing and delete post are functional.
+
+# Comment a post
+
+- **MODULE:** Comment a post
+- **DESCRIPTION:** The user should able to comment on a post.
+- **STATUS:** PASSED
+- **NOTES:** commenting on a post is functional.
+
+# Up and down vote buttom
+
+- **MODULE:** Up and down vote buttom
+- **DESCRIPTION:** The user should able to up and down vote on post.
+- **STATUS:** PASSED
+- **NOTES:** up and down vote buttom are functional
+
+# Add a tag
+
+- **MODULE:** add a tag
+- **DESCRIPTION:** The user should able to add a tag when create a post.
+- **STATUS:** PASSED
+- **NOTES:** adding a tag in post are functional
